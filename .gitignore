@@ -2,3 +2,4 @@
 *.pdf
 logs_*
 *.zip
+.idea
