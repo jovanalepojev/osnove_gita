@@ -3,4 +3,10 @@
 logs_*
 library/.zip
 *.idea
-*svastara*
+svastara
+.users
+.db
+.properties
+.keys
+.pem
+
