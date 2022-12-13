@@ -1,1 +1,0 @@
-vezbanje/predavanje_2
